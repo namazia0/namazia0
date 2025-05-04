@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 - 🏷️  My name is <b>Arian Namazi</b>
-- 🎓  Master's degree student of <i>Computer Science</i>
+- 🎓  Master's degree student of Computer Science
 - 👨🏻‍💻  Superfan of Python!
 
 <h3 align="left">Let's keep in touch:</h3>
