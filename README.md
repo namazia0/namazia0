@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**namazia0/namazia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏷️  My name is <b>Arian Namazi</b>
+- 🎓  Master's degree student of <i>Computer Science</i>
+- 👨🏻‍💻  Superfan of Python!
 
-Here are some ideas to get you started:
+<h3 align="left">Let's keep in touch:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    
+  <a href="mailto: arian.namazi7@gmail.com">
+        <img align="left" 
+             alt="email"
+             title="Email"
+             width="4%" 
+             src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+    </a>
+    
+    
+  <a href="https://www.linkedin.com/in/arian-namazi/">
+        <img align="left" 
+             alt="linkedin" 
+             title="LinkedIn"
+             width="4%" 
+             src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png">
+    </a>
+  
+  <!-- <a href="https://www.researchgate.net/profile/">
+        <img align="left" 
+             alt="researchgate"
+             title="ResearchGate"
+             width="4%" 
+             src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png">
+    </a> -->
+</p>
+
+<p align="center">
+    <a href="#">
+        <img
+            width="40%"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=namazia0&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
+        />
+        </a>
+</p>
