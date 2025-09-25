@@ -7,16 +7,7 @@
 
 <h3 align="left">Let's keep in touch:</h3>
 
-<p align="left">
-    
-  <a href="mailto: arian.namazi7@gmail.com">
-        <img align="left" 
-             alt="email"
-             title="Email"
-             width="4%" 
-             src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-    </a>
-    
+<p align="left">    
     
   <a href="https://www.linkedin.com/in/arian-namazi/">
         <img align="left" 
