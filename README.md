@@ -5,7 +5,7 @@
 - 👨🏻‍💻  Superfan of Python!
 - 🌍 More Information on my website: <a href="https://namazia0.github.io/" target="_blank">[namazia0.github.io](https://namazia0.github.io/)</a>
 
-<h3 align="left">Let's keep in touch:</h3>
+<h3 align="left">Let's get in touch:</h3>
 
 <p align="left">    
     
