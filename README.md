@@ -9,7 +9,7 @@
 
 <p align="left">    
     
-  <a href="https://www.linkedin.com/in/arian-namazi/">
+  <a href="https://www.linkedin.com/in/arian-namazi/" target="_blank" rel="noopener noreferrer">>
         <img align="left" 
              alt="linkedin" 
              title="LinkedIn"
