@@ -3,13 +3,13 @@
 - 🏷️  My name is <b>Arian Namazi</b>
 - 🎓  Master's degree student of Computer Science
 - 👨🏻‍💻  Superfan of Python!
-- 🌍 More Information on my website: https://namazia0.github.io/
+- 🌍 More Information on my website: <a href="https://namazia0.github.io/" target="_blank">[namazia0.github.io](https://namazia0.github.io/)</a>
 
 <h3 align="left">Let's keep in touch:</h3>
 
 <p align="left">    
     
-  <a href="https://www.linkedin.com/in/arian-namazi/" target="_blank" rel="noopener noreferrer">>
+  <a href="https://www.linkedin.com/in/arian-namazi/">
         <img align="left" 
              alt="linkedin" 
              title="LinkedIn"
