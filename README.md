@@ -3,7 +3,6 @@
 - 🏷️  My name is <b>Arian Namazi</b>
 - 🎓  Master's degree student of Computer Science
 - 👨🏻‍💻  Superfan of Python!
-- 🌍 More Information on my website: <a href="https://namazia0.github.io/" target="_blank">[namazia0.github.io](https://namazia0.github.io/)</a>
 
 <h3 align="left">Let's get in touch:</h3>
 
