@@ -26,3 +26,14 @@
 </p>
 
 <br><br>
+
+---
+
+<p align="center">
+    <a href="#">
+        <img
+            width="40%"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=namazia0&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
+        />
+        </a>
+</p>
