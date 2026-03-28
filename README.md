@@ -1,8 +1,8 @@
-<h1>Hi there 👋</h1>
+<h1>Hi, I'm Arian 👋</h1>
 
-- 🏷️  My name is <b>Arian Namazi</b>
-- 🎓  Master's degree student of Computer Science
-- 👨🏻‍💻  Superfan of Python!
+- 🎓 Master's degree student of Computer Science
+- 🌱 I'm currently working with an amazing team at Mercedes-Benz Tech Innovation
+- 💡 Always open to collaboration and new ideas
 
 <h3 align="left">Let's get in touch:</h3>
 
